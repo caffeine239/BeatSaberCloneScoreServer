@@ -1,0 +1,14 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\SquBitServer\SquBitServer\bin\Debug\SquBitServer.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\SquBitServer\SquBitServer\bin\Debug\SquBitServer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\SquBitServer\SquBitServer\bin\Debug\SquBitServer.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\SquBitServer\SquBitServer\obj\Debug\SquBitServer.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\SquBitServer\SquBitServer\obj\Debug\SquBitServer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\SquBitServer\SquBitServer\obj\Debug\SquBitServer.csprojResolveAssemblyReference.cache
+D:\GameServer\SquBitServer\bin\Debug\SquBitServer.exe.config
+D:\GameServer\SquBitServer\bin\Debug\SquBitServer.exe
+D:\GameServer\SquBitServer\bin\Debug\SquBitServer.pdb
+D:\GameServer\SquBitServer\obj\Debug\SquBitServer.csprojAssemblyReference.cache
+D:\GameServer\SquBitServer\obj\Debug\SquBitServer.csproj.CoreCompileInputs.cache
+D:\GameServer\SquBitServer\obj\Debug\SquBitServer.csproj.CopyComplete
+D:\GameServer\SquBitServer\obj\Debug\SquBitServer.exe
+D:\GameServer\SquBitServer\obj\Debug\SquBitServer.pdb

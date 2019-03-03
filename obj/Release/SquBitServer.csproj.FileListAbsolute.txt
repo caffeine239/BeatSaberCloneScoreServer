@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\SquBitServer\SquBitServer\bin\Release\SquBitServer.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\SquBitServer\SquBitServer\bin\Release\SquBitServer.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\SquBitServer\SquBitServer\bin\Release\SquBitServer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\SquBitServer\SquBitServer\bin\Release\mysql.data.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\SquBitServer\SquBitServer\obj\Release\SquBitServer.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\SquBitServer\SquBitServer\obj\Release\SquBitServer.pdb

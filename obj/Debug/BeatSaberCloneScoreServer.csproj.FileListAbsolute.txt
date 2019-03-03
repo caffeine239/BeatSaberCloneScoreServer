@@ -1,0 +1,10 @@
+C:\Users\mike\Documents\GitHub\BeatSaberCloneScoreServer\SquBitServer\obj\Debug\BeatSaberCloneScoreServer.csprojAssemblyReference.cache
+C:\Users\mike\Documents\GitHub\BeatSaberCloneScoreServer\SquBitServer\obj\Debug\BeatSaberCloneScoreServer.csproj.CoreCompileInputs.cache
+C:\Users\mike\Documents\GitHub\BeatSaberCloneScoreServer\bin\Debug\BeatSaberCloneScoreServer.exe.config
+C:\Users\mike\Documents\GitHub\BeatSaberCloneScoreServer\bin\Debug\BeatSaberCloneScoreServer.exe
+C:\Users\mike\Documents\GitHub\BeatSaberCloneScoreServer\bin\Debug\BeatSaberCloneScoreServer.pdb
+C:\Users\mike\Documents\GitHub\BeatSaberCloneScoreServer\obj\Debug\BeatSaberCloneScoreServer.csprojAssemblyReference.cache
+C:\Users\mike\Documents\GitHub\BeatSaberCloneScoreServer\obj\Debug\BeatSaberCloneScoreServer.csproj.CoreCompileInputs.cache
+C:\Users\mike\Documents\GitHub\BeatSaberCloneScoreServer\obj\Debug\BeatSaberCloneScoreServer.csproj.CopyComplete
+C:\Users\mike\Documents\GitHub\BeatSaberCloneScoreServer\obj\Debug\BeatSaberCloneScoreServer.exe
+C:\Users\mike\Documents\GitHub\BeatSaberCloneScoreServer\obj\Debug\BeatSaberCloneScoreServer.pdb
